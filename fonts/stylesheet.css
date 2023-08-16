@@ -1,11 +1,2 @@
-@font-face {
-    font-family: 'Ganesha Type';
-    src: url('GaneshaType.woff2') format('woff2'),
-        url('GaneshaType.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-.font1 {
-font-family:'Ganesha Type' ; 
+.german { color: red;
 }
