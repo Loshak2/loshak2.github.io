@@ -1,3 +1,4 @@
-.rpg {
-    font-family:italic ;
+@font-face {
+    font-family:"genius" ;
+    src: url(AlegreyaSans-BoldItalic.ttf); 
 }
