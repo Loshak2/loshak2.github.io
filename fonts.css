@@ -155,5 +155,7 @@
     font-family:"Volbera" ;
     src: url(Volbera-Regular.ttf); 
 }
-
+.really {
+    font-family: "precious";
+}
 
