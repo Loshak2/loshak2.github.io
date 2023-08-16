@@ -1,9 +1,159 @@
-.genZ {
-    font-family:"genius";
-    color:blue;
-    font-size: 44px;
+
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Black.ttf); 
 }
 @font-face {
-    font-family:"genius" ;
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-BlackItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Bold.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-BoldItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-ExtraBold.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Italic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Light.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-LightItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Medium.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-MediumItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Regular.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSans-Thin.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSansSC-ThinItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-Black.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-BlackItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-Bold.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-BoldItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-ExtraBold.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-ExtraBoldItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-Italic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-Medium.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-MediumItalic.ttf); 
+}
+@font-face {
+    font-family:"AlegreyaSC" ;
+    src: url(AlegreyaSC-Regular.ttf); 
+}
+@font-face {
+    font-family:"Mookmania" ;
+    src: url(Mookmania_Bold_Italic.otf); 
+}
+@font-face {
+    font-family:"Mookmania" ;
+    src: url(Mookmania_Bold.otf); 
+}
+@font-face {
+    font-family:"Mookmania" ;
+    src: url(Mookmania_Italic.otf); 
+}
+@font-face {
+    font-family:"Mookmania" ;
+    src: url(Mookmania.otf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Bold_Italic.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Bold.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Extrabold_Italic.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Extrabold.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Italic.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Light_Italic.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Light.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Semibold_Italic.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans_Semibold.ttf); 
+}
+@font-face {
+    font-family:"Open_Sans" ;
+    src: url(Open_Sans.ttf); 
+}
+@font-face {
+    font-family:"precious" ;
     src: url(Precious.ttf); 
 }
+@font-face {
+    font-family:"Volbera" ;
+    src: url(Volbera-Regular.ttf); 
+}
+
+
