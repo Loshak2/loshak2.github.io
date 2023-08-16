@@ -1,5 +1,7 @@
 .genZ {
-    font-family:"genius" ;
+    font-family:"genius";
+    color:blue;
+    font-size: 44px;
 }
 @font-face {
     font-family:"genius" ;
